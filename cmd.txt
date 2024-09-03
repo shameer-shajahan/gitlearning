@@ -1,2 +1,6 @@
 git config--global user.name "user.name" [setting git user name]
 git config--global user.email "user.email" [setting git user email]
+git init [to initialise git n current work directory]
+git status [to list all untracked files]
+git add -A [to add add untracked files to staging ]
+git commit -m "commit message" [to commit with discriptive commit message ]
