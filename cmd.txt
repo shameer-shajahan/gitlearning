@@ -4,7 +4,7 @@ git init [to initialise git n current work directory]
 git status [to list all untracked files]
 git add -A [to add add untracked files to staging ]
 git commit -m "commit message" [to commit with discriptive commit message ]
-git remorte add remote_name path [for adding remorte]
+git remote add remote_name path [for adding remorte]
         eg : git remorte add orgin https://github.com/shameer4247/gitlearning.git
 git branch [list the all branches]
 git push remorte_name branch 
